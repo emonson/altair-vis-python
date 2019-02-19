@@ -1,0 +1,6 @@
+Supplemental files for "A layered grammar of graphics"
+
+* minard.r: R code to reproduce ``Napoleon's march''.
+* minard-cities.txt: Location of cities in ``Napoleon's March'' by Minard.
+* minard-troops.txt: Troop movement data.
+* layered-grammar.r: R code to reproduce all figures in this paper.
