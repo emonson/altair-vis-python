@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .vega-actions a {
+        margin-right: 12px;
+        color: #757575;
+        font-weight: normal;
+        font-size: 13px;
+    }
+    .error {
+        color: red;
+    }
+  </style>
+
+<script src="https://cdn.jsdelivr.net/npm//vega@3.3.1"></script>
+<script src="https://cdn.jsdelivr.net/npm//vega-lite@2.6.0"></script>
+<script src="https://cdn.jsdelivr.net/npm//vega-embed@3.14"></script>
+
+</head>
+<body>
+  <div id="vis"></div>
+  <script type="text/javascript">
+    var spec = {"config": {"view": {"width": 400, "height": 300}}, "vconcat": [{"data": {"url": "libsmalldata.json"}, "mark": "line", "encoding": {"color": {"value": "darkgray"}, "x": {"type": "temporal", "field": "timestamp", "timeUnit": "yearmonthdate"}, "y": {"type": "quantitative", "aggregate": "sum", "field": "visitors"}}, "height": 100, "selection": {"selector003": {"type": "interval", "encodings": ["x"], "fields": ["timestamp:T"]}}}, {"data": {"url": "libsmalldata.json"}, "mark": "bar", "encoding": {"x": {"type": "quantitative", "aggregate": "sum", "field": "visitors"}, "y": {"type": "nominal", "field": "country"}}, "transform": [{"filter": {"selection": "selector003"}}]}], "$schema": "https://vega.github.io/schema/vega-lite/v2.6.0.json"};
+    var embed_opt = {"mode": "vega-lite"};
+
+    function showError(el, error){
+        el.innerHTML = ('<div class="error">'
+                        + '<p>JavaScript Error: ' + error.message + '</p>'
+                        + "<p>This usually means there's a typo in your chart specification. "
+                        + "See the javascript console for the full traceback.</p>"
+                        + '</div>');
+        throw error;
+    }
+    const el = document.getElementById('vis');
+    vegaEmbed("#vis", spec, embed_opt)
+      .catch(error => showError(el, error));
+  </script>
+</body>
+</html>
