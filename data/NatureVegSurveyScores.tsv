@@ -1,0 +1,1251 @@
+respID	veg	trait	response
+r0	1_Corn	1_Green	1
+r1	1_Corn	1_Green	2
+r2	1_Corn	1_Green	4
+r3	1_Corn	1_Green	1
+r4	1_Corn	1_Green	1
+r5	1_Corn	1_Green	1
+r6	1_Corn	1_Green	2
+r7	1_Corn	1_Green	1
+r8	1_Corn	1_Green	1
+r9	1_Corn	1_Green	2
+r10	1_Corn	1_Green	1
+r11	1_Corn	1_Green	3
+r12	1_Corn	1_Green	5
+r13	1_Corn	1_Green	3
+r14	1_Corn	1_Green	1
+r15	1_Corn	1_Green	1
+r16	1_Corn	1_Green	1
+r17	1_Corn	1_Green	1
+r18	1_Corn	1_Green	2
+r19	1_Corn	1_Green	3
+r20	1_Corn	1_Green	3
+r21	1_Corn	1_Green	3
+r22	1_Corn	1_Green	1
+r23	1_Corn	1_Green	2
+r24	1_Corn	1_Green	1
+r25	1_Corn	1_Green	1
+r26	1_Corn	1_Green	1
+r27	1_Corn	1_Green	3
+r28	1_Corn	1_Green	2
+r29	1_Corn	1_Green	1
+r30	1_Corn	1_Green	3
+r31	1_Corn	1_Green	2
+r32	1_Corn	1_Green	1
+r33	1_Corn	1_Green	1
+r34	1_Corn	1_Green	1
+r35	1_Corn	1_Green	1
+r36	1_Corn	1_Green	3
+r37	1_Corn	1_Green	2
+r38	1_Corn	1_Green	2
+r39	1_Corn	1_Green	2
+r40	1_Corn	1_Green	1
+r41	1_Corn	1_Green	1
+r42	1_Corn	1_Green	1
+r43	1_Corn	1_Green	1
+r44	1_Corn	1_Green	1
+r45	1_Corn	1_Green	2
+r46	1_Corn	1_Green	1
+r47	1_Corn	1_Green	2
+r48	1_Corn	1_Green	1
+r49	1_Corn	1_Green	4
+r0	1_Corn	2_Yellow	5
+r1	1_Corn	2_Yellow	5
+r2	1_Corn	2_Yellow	5
+r3	1_Corn	2_Yellow	5
+r4	1_Corn	2_Yellow	4
+r5	1_Corn	2_Yellow	5
+r6	1_Corn	2_Yellow	5
+r7	1_Corn	2_Yellow	4
+r8	1_Corn	2_Yellow	5
+r9	1_Corn	2_Yellow	5
+r10	1_Corn	2_Yellow	5
+r11	1_Corn	2_Yellow	5
+r12	1_Corn	2_Yellow	5
+r13	1_Corn	2_Yellow	5
+r14	1_Corn	2_Yellow	5
+r15	1_Corn	2_Yellow	4
+r16	1_Corn	2_Yellow	2
+r17	1_Corn	2_Yellow	5
+r18	1_Corn	2_Yellow	5
+r19	1_Corn	2_Yellow	5
+r20	1_Corn	2_Yellow	5
+r21	1_Corn	2_Yellow	4
+r22	1_Corn	2_Yellow	5
+r23	1_Corn	2_Yellow	5
+r24	1_Corn	2_Yellow	4
+r25	1_Corn	2_Yellow	3
+r26	1_Corn	2_Yellow	5
+r27	1_Corn	2_Yellow	5
+r28	1_Corn	2_Yellow	5
+r29	1_Corn	2_Yellow	5
+r30	1_Corn	2_Yellow	5
+r31	1_Corn	2_Yellow	5
+r32	1_Corn	2_Yellow	5
+r33	1_Corn	2_Yellow	4
+r34	1_Corn	2_Yellow	5
+r35	1_Corn	2_Yellow	5
+r36	1_Corn	2_Yellow	5
+r37	1_Corn	2_Yellow	4
+r38	1_Corn	2_Yellow	5
+r39	1_Corn	2_Yellow	5
+r40	1_Corn	2_Yellow	5
+r41	1_Corn	2_Yellow	4
+r42	1_Corn	2_Yellow	5
+r43	1_Corn	2_Yellow	5
+r44	1_Corn	2_Yellow	5
+r45	1_Corn	2_Yellow	5
+r46	1_Corn	2_Yellow	5
+r47	1_Corn	2_Yellow	5
+r48	1_Corn	2_Yellow	5
+r49	1_Corn	2_Yellow	5
+r0	1_Corn	3_Cheap	3
+r1	1_Corn	3_Cheap	3
+r2	1_Corn	3_Cheap	3
+r3	1_Corn	3_Cheap	3
+r4	1_Corn	3_Cheap	2
+r5	1_Corn	3_Cheap	3
+r6	1_Corn	3_Cheap	4
+r7	1_Corn	3_Cheap	4
+r8	1_Corn	3_Cheap	3
+r9	1_Corn	3_Cheap	4
+r10	1_Corn	3_Cheap	3
+r11	1_Corn	3_Cheap	2
+r12	1_Corn	3_Cheap	2
+r13	1_Corn	3_Cheap	2
+r14	1_Corn	3_Cheap	3
+r15	1_Corn	3_Cheap	4
+r16	1_Corn	3_Cheap	3
+r17	1_Corn	3_Cheap	3
+r18	1_Corn	3_Cheap	4
+r19	1_Corn	3_Cheap	3
+r20	1_Corn	3_Cheap	3
+r21	1_Corn	3_Cheap	3
+r22	1_Corn	3_Cheap	5
+r23	1_Corn	3_Cheap	5
+r24	1_Corn	3_Cheap	4
+r25	1_Corn	3_Cheap	5
+r26	1_Corn	3_Cheap	5
+r27	1_Corn	3_Cheap	1
+r28	1_Corn	3_Cheap	3
+r29	1_Corn	3_Cheap	4
+r30	1_Corn	3_Cheap	3
+r31	1_Corn	3_Cheap	2
+r32	1_Corn	3_Cheap	5
+r33	1_Corn	3_Cheap	3
+r34	1_Corn	3_Cheap	3
+r35	1_Corn	3_Cheap	3
+r36	1_Corn	3_Cheap	3
+r37	1_Corn	3_Cheap	5
+r38	1_Corn	3_Cheap	2
+r39	1_Corn	3_Cheap	4
+r40	1_Corn	3_Cheap	3
+r41	1_Corn	3_Cheap	3
+r42	1_Corn	3_Cheap	4
+r43	1_Corn	3_Cheap	3
+r44	1_Corn	3_Cheap	5
+r45	1_Corn	3_Cheap	3
+r46	1_Corn	3_Cheap	2
+r47	1_Corn	3_Cheap	3
+r48	1_Corn	3_Cheap	4
+r49	1_Corn	3_Cheap	5
+r0	1_Corn	4_Tasty	5
+r1	1_Corn	4_Tasty	4
+r2	1_Corn	4_Tasty	5
+r3	1_Corn	4_Tasty	5
+r4	1_Corn	4_Tasty	5
+r5	1_Corn	4_Tasty	5
+r6	1_Corn	4_Tasty	5
+r7	1_Corn	4_Tasty	5
+r8	1_Corn	4_Tasty	5
+r9	1_Corn	4_Tasty	5
+r10	1_Corn	4_Tasty	5
+r11	1_Corn	4_Tasty	5
+r12	1_Corn	4_Tasty	5
+r13	1_Corn	4_Tasty	5
+r14	1_Corn	4_Tasty	5
+r15	1_Corn	4_Tasty	2
+r16	1_Corn	4_Tasty	5
+r17	1_Corn	4_Tasty	5
+r18	1_Corn	4_Tasty	5
+r19	1_Corn	4_Tasty	4
+r20	1_Corn	4_Tasty	5
+r21	1_Corn	4_Tasty	5
+r22	1_Corn	4_Tasty	5
+r23	1_Corn	4_Tasty	5
+r24	1_Corn	4_Tasty	5
+r25	1_Corn	4_Tasty	5
+r26	1_Corn	4_Tasty	5
+r27	1_Corn	4_Tasty	5
+r28	1_Corn	4_Tasty	5
+r29	1_Corn	4_Tasty	5
+r30	1_Corn	4_Tasty	5
+r31	1_Corn	4_Tasty	5
+r32	1_Corn	4_Tasty	5
+r33	1_Corn	4_Tasty	5
+r34	1_Corn	4_Tasty	5
+r35	1_Corn	4_Tasty	5
+r36	1_Corn	4_Tasty	5
+r37	1_Corn	4_Tasty	5
+r38	1_Corn	4_Tasty	5
+r39	1_Corn	4_Tasty	5
+r40	1_Corn	4_Tasty	5
+r41	1_Corn	4_Tasty	5
+r42	1_Corn	4_Tasty	5
+r43	1_Corn	4_Tasty	4
+r44	1_Corn	4_Tasty	5
+r45	1_Corn	4_Tasty	5
+r46	1_Corn	4_Tasty	5
+r47	1_Corn	4_Tasty	5
+r48	1_Corn	4_Tasty	5
+r49	1_Corn	4_Tasty	5
+r0	1_Corn	5_Gross	1
+r1	1_Corn	5_Gross	1
+r2	1_Corn	5_Gross	3
+r3	1_Corn	5_Gross	3
+r4	1_Corn	5_Gross	1
+r5	1_Corn	5_Gross	2
+r6	1_Corn	5_Gross	4
+r7	1_Corn	5_Gross	3
+r8	1_Corn	5_Gross	1
+r9	1_Corn	5_Gross	1
+r10	1_Corn	5_Gross	1
+r11	1_Corn	5_Gross	4
+r12	1_Corn	5_Gross	1
+r13	1_Corn	5_Gross	4
+r14	1_Corn	5_Gross	3
+r15	1_Corn	5_Gross	3
+r16	1_Corn	5_Gross	1
+r17	1_Corn	5_Gross	3
+r18	1_Corn	5_Gross	2
+r19	1_Corn	5_Gross	1
+r20	1_Corn	5_Gross	3
+r21	1_Corn	5_Gross	1
+r22	1_Corn	5_Gross	1
+r23	1_Corn	5_Gross	1
+r24	1_Corn	5_Gross	1
+r25	1_Corn	5_Gross	2
+r26	1_Corn	5_Gross	1
+r27	1_Corn	5_Gross	4
+r28	1_Corn	5_Gross	2
+r29	1_Corn	5_Gross	2
+r30	1_Corn	5_Gross	1
+r31	1_Corn	5_Gross	1
+r32	1_Corn	5_Gross	4
+r33	1_Corn	5_Gross	3
+r34	1_Corn	5_Gross	3
+r35	1_Corn	5_Gross	2
+r36	1_Corn	5_Gross	1
+r37	1_Corn	5_Gross	1
+r38	1_Corn	5_Gross	1
+r39	1_Corn	5_Gross	1
+r40	1_Corn	5_Gross	3
+r41	1_Corn	5_Gross	1
+r42	1_Corn	5_Gross	2
+r43	1_Corn	5_Gross	2
+r44	1_Corn	5_Gross	1
+r45	1_Corn	5_Gross	3
+r46	1_Corn	5_Gross	1
+r47	1_Corn	5_Gross	1
+r48	1_Corn	5_Gross	1
+r49	1_Corn	5_Gross	2
+r0	2_Squash	1_Green	1
+r1	2_Squash	1_Green	1
+r2	2_Squash	1_Green	3
+r3	2_Squash	1_Green	3
+r4	2_Squash	1_Green	2
+r5	2_Squash	1_Green	1
+r6	2_Squash	1_Green	1
+r7	2_Squash	1_Green	1
+r8	2_Squash	1_Green	1
+r9	2_Squash	1_Green	3
+r10	2_Squash	1_Green	1
+r11	2_Squash	1_Green	2
+r12	2_Squash	1_Green	2
+r13	2_Squash	1_Green	1
+r14	2_Squash	1_Green	2
+r15	2_Squash	1_Green	2
+r16	2_Squash	1_Green	1
+r17	2_Squash	1_Green	5
+r18	2_Squash	1_Green	5
+r19	2_Squash	1_Green	4
+r20	2_Squash	1_Green	1
+r21	2_Squash	1_Green	3
+r22	2_Squash	1_Green	3
+r23	2_Squash	1_Green	2
+r24	2_Squash	1_Green	2
+r25	2_Squash	1_Green	1
+r26	2_Squash	1_Green	1
+r27	2_Squash	1_Green	1
+r28	2_Squash	1_Green	4
+r29	2_Squash	1_Green	1
+r30	2_Squash	1_Green	1
+r31	2_Squash	1_Green	1
+r32	2_Squash	1_Green	1
+r33	2_Squash	1_Green	1
+r34	2_Squash	1_Green	2
+r35	2_Squash	1_Green	1
+r36	2_Squash	1_Green	3
+r37	2_Squash	1_Green	2
+r38	2_Squash	1_Green	4
+r39	2_Squash	1_Green	2
+r40	2_Squash	1_Green	1
+r41	2_Squash	1_Green	4
+r42	2_Squash	1_Green	4
+r43	2_Squash	1_Green	2
+r44	2_Squash	1_Green	3
+r45	2_Squash	1_Green	3
+r46	2_Squash	1_Green	2
+r47	2_Squash	1_Green	2
+r48	2_Squash	1_Green	1
+r49	2_Squash	1_Green	1
+r0	2_Squash	2_Yellow	4
+r1	2_Squash	2_Yellow	3
+r2	2_Squash	2_Yellow	5
+r3	2_Squash	2_Yellow	5
+r4	2_Squash	2_Yellow	5
+r5	2_Squash	2_Yellow	4
+r6	2_Squash	2_Yellow	5
+r7	2_Squash	2_Yellow	5
+r8	2_Squash	2_Yellow	5
+r9	2_Squash	2_Yellow	5
+r10	2_Squash	2_Yellow	5
+r11	2_Squash	2_Yellow	5
+r12	2_Squash	2_Yellow	5
+r13	2_Squash	2_Yellow	2
+r14	2_Squash	2_Yellow	4
+r15	2_Squash	2_Yellow	4
+r16	2_Squash	2_Yellow	5
+r17	2_Squash	2_Yellow	4
+r18	2_Squash	2_Yellow	4
+r19	2_Squash	2_Yellow	4
+r20	2_Squash	2_Yellow	5
+r21	2_Squash	2_Yellow	5
+r22	2_Squash	2_Yellow	1
+r23	2_Squash	2_Yellow	5
+r24	2_Squash	2_Yellow	5
+r25	2_Squash	2_Yellow	5
+r26	2_Squash	2_Yellow	4
+r27	2_Squash	2_Yellow	5
+r28	2_Squash	2_Yellow	5
+r29	2_Squash	2_Yellow	5
+r30	2_Squash	2_Yellow	5
+r31	2_Squash	2_Yellow	4
+r32	2_Squash	2_Yellow	5
+r33	2_Squash	2_Yellow	5
+r34	2_Squash	2_Yellow	5
+r35	2_Squash	2_Yellow	5
+r36	2_Squash	2_Yellow	4
+r37	2_Squash	2_Yellow	5
+r38	2_Squash	2_Yellow	2
+r39	2_Squash	2_Yellow	5
+r40	2_Squash	2_Yellow	4
+r41	2_Squash	2_Yellow	5
+r42	2_Squash	2_Yellow	4
+r43	2_Squash	2_Yellow	5
+r44	2_Squash	2_Yellow	5
+r45	2_Squash	2_Yellow	5
+r46	2_Squash	2_Yellow	5
+r47	2_Squash	2_Yellow	5
+r48	2_Squash	2_Yellow	3
+r49	2_Squash	2_Yellow	5
+r0	2_Squash	3_Cheap	5
+r1	2_Squash	3_Cheap	1
+r2	2_Squash	3_Cheap	3
+r3	2_Squash	3_Cheap	3
+r4	2_Squash	3_Cheap	5
+r5	2_Squash	3_Cheap	1
+r6	2_Squash	3_Cheap	4
+r7	2_Squash	3_Cheap	4
+r8	2_Squash	3_Cheap	3
+r9	2_Squash	3_Cheap	5
+r10	2_Squash	3_Cheap	2
+r11	2_Squash	3_Cheap	2
+r12	2_Squash	3_Cheap	2
+r13	2_Squash	3_Cheap	4
+r14	2_Squash	3_Cheap	3
+r15	2_Squash	3_Cheap	2
+r16	2_Squash	3_Cheap	3
+r17	2_Squash	3_Cheap	4
+r18	2_Squash	3_Cheap	5
+r19	2_Squash	3_Cheap	3
+r20	2_Squash	3_Cheap	2
+r21	2_Squash	3_Cheap	1
+r22	2_Squash	3_Cheap	1
+r23	2_Squash	3_Cheap	4
+r24	2_Squash	3_Cheap	2
+r25	2_Squash	3_Cheap	3
+r26	2_Squash	3_Cheap	4
+r27	2_Squash	3_Cheap	4
+r28	2_Squash	3_Cheap	4
+r29	2_Squash	3_Cheap	1
+r30	2_Squash	3_Cheap	3
+r31	2_Squash	3_Cheap	5
+r32	2_Squash	3_Cheap	3
+r33	2_Squash	3_Cheap	1
+r34	2_Squash	3_Cheap	5
+r35	2_Squash	3_Cheap	2
+r36	2_Squash	3_Cheap	5
+r37	2_Squash	3_Cheap	2
+r38	2_Squash	3_Cheap	4
+r39	2_Squash	3_Cheap	4
+r40	2_Squash	3_Cheap	4
+r41	2_Squash	3_Cheap	4
+r42	2_Squash	3_Cheap	4
+r43	2_Squash	3_Cheap	5
+r44	2_Squash	3_Cheap	5
+r45	2_Squash	3_Cheap	3
+r46	2_Squash	3_Cheap	2
+r47	2_Squash	3_Cheap	2
+r48	2_Squash	3_Cheap	3
+r49	2_Squash	3_Cheap	3
+r0	2_Squash	4_Tasty	3
+r1	2_Squash	4_Tasty	3
+r2	2_Squash	4_Tasty	3
+r3	2_Squash	4_Tasty	2
+r4	2_Squash	4_Tasty	2
+r5	2_Squash	4_Tasty	3
+r6	2_Squash	4_Tasty	3
+r7	2_Squash	4_Tasty	4
+r8	2_Squash	4_Tasty	1
+r9	2_Squash	4_Tasty	1
+r10	2_Squash	4_Tasty	3
+r11	2_Squash	4_Tasty	4
+r12	2_Squash	4_Tasty	4
+r13	2_Squash	4_Tasty	1
+r14	2_Squash	4_Tasty	1
+r15	2_Squash	4_Tasty	4
+r16	2_Squash	4_Tasty	2
+r17	2_Squash	4_Tasty	5
+r18	2_Squash	4_Tasty	3
+r19	2_Squash	4_Tasty	2
+r20	2_Squash	4_Tasty	2
+r21	2_Squash	4_Tasty	4
+r22	2_Squash	4_Tasty	5
+r23	2_Squash	4_Tasty	4
+r24	2_Squash	4_Tasty	3
+r25	2_Squash	4_Tasty	3
+r26	2_Squash	4_Tasty	2
+r27	2_Squash	4_Tasty	5
+r28	2_Squash	4_Tasty	2
+r29	2_Squash	4_Tasty	2
+r30	2_Squash	4_Tasty	4
+r31	2_Squash	4_Tasty	2
+r32	2_Squash	4_Tasty	5
+r33	2_Squash	4_Tasty	4
+r34	2_Squash	4_Tasty	3
+r35	2_Squash	4_Tasty	2
+r36	2_Squash	4_Tasty	3
+r37	2_Squash	4_Tasty	2
+r38	2_Squash	4_Tasty	1
+r39	2_Squash	4_Tasty	2
+r40	2_Squash	4_Tasty	1
+r41	2_Squash	4_Tasty	5
+r42	2_Squash	4_Tasty	2
+r43	2_Squash	4_Tasty	2
+r44	2_Squash	4_Tasty	2
+r45	2_Squash	4_Tasty	4
+r46	2_Squash	4_Tasty	1
+r47	2_Squash	4_Tasty	1
+r48	2_Squash	4_Tasty	1
+r49	2_Squash	4_Tasty	1
+r0	2_Squash	5_Gross	1
+r1	2_Squash	5_Gross	2
+r2	2_Squash	5_Gross	3
+r3	2_Squash	5_Gross	1
+r4	2_Squash	5_Gross	2
+r5	2_Squash	5_Gross	1
+r6	2_Squash	5_Gross	1
+r7	2_Squash	5_Gross	4
+r8	2_Squash	5_Gross	2
+r9	2_Squash	5_Gross	2
+r10	2_Squash	5_Gross	2
+r11	2_Squash	5_Gross	3
+r12	2_Squash	5_Gross	4
+r13	2_Squash	5_Gross	4
+r14	2_Squash	5_Gross	2
+r15	2_Squash	5_Gross	3
+r16	2_Squash	5_Gross	5
+r17	2_Squash	5_Gross	1
+r18	2_Squash	5_Gross	1
+r19	2_Squash	5_Gross	3
+r20	2_Squash	5_Gross	2
+r21	2_Squash	5_Gross	3
+r22	2_Squash	5_Gross	3
+r23	2_Squash	5_Gross	2
+r24	2_Squash	5_Gross	2
+r25	2_Squash	5_Gross	1
+r26	2_Squash	5_Gross	2
+r27	2_Squash	5_Gross	1
+r28	2_Squash	5_Gross	2
+r29	2_Squash	5_Gross	3
+r30	2_Squash	5_Gross	1
+r31	2_Squash	5_Gross	4
+r32	2_Squash	5_Gross	3
+r33	2_Squash	5_Gross	1
+r34	2_Squash	5_Gross	3
+r35	2_Squash	5_Gross	4
+r36	2_Squash	5_Gross	2
+r37	2_Squash	5_Gross	2
+r38	2_Squash	5_Gross	5
+r39	2_Squash	5_Gross	3
+r40	2_Squash	5_Gross	1
+r41	2_Squash	5_Gross	4
+r42	2_Squash	5_Gross	2
+r43	2_Squash	5_Gross	4
+r44	2_Squash	5_Gross	4
+r45	2_Squash	5_Gross	4
+r46	2_Squash	5_Gross	2
+r47	2_Squash	5_Gross	1
+r48	2_Squash	5_Gross	2
+r49	2_Squash	5_Gross	1
+r0	3_Brussel sprouts	1_Green	1
+r1	3_Brussel sprouts	1_Green	5
+r2	3_Brussel sprouts	1_Green	4
+r3	3_Brussel sprouts	1_Green	2
+r4	3_Brussel sprouts	1_Green	1
+r5	3_Brussel sprouts	1_Green	1
+r6	3_Brussel sprouts	1_Green	1
+r7	3_Brussel sprouts	1_Green	1
+r8	3_Brussel sprouts	1_Green	4
+r9	3_Brussel sprouts	1_Green	5
+r10	3_Brussel sprouts	1_Green	3
+r11	3_Brussel sprouts	1_Green	2
+r12	3_Brussel sprouts	1_Green	4
+r13	3_Brussel sprouts	1_Green	3
+r14	3_Brussel sprouts	1_Green	3
+r15	3_Brussel sprouts	1_Green	1
+r16	3_Brussel sprouts	1_Green	3
+r17	3_Brussel sprouts	1_Green	2
+r18	3_Brussel sprouts	1_Green	5
+r19	3_Brussel sprouts	1_Green	4
+r20	3_Brussel sprouts	1_Green	1
+r21	3_Brussel sprouts	1_Green	3
+r22	3_Brussel sprouts	1_Green	2
+r23	3_Brussel sprouts	1_Green	1
+r24	3_Brussel sprouts	1_Green	4
+r25	3_Brussel sprouts	1_Green	2
+r26	3_Brussel sprouts	1_Green	1
+r27	3_Brussel sprouts	1_Green	2
+r28	3_Brussel sprouts	1_Green	2
+r29	3_Brussel sprouts	1_Green	1
+r30	3_Brussel sprouts	1_Green	2
+r31	3_Brussel sprouts	1_Green	1
+r32	3_Brussel sprouts	1_Green	3
+r33	3_Brussel sprouts	1_Green	3
+r34	3_Brussel sprouts	1_Green	5
+r35	3_Brussel sprouts	1_Green	1
+r36	3_Brussel sprouts	1_Green	3
+r37	3_Brussel sprouts	1_Green	3
+r38	3_Brussel sprouts	1_Green	1
+r39	3_Brussel sprouts	1_Green	1
+r40	3_Brussel sprouts	1_Green	1
+r41	3_Brussel sprouts	1_Green	1
+r42	3_Brussel sprouts	1_Green	3
+r43	3_Brussel sprouts	1_Green	3
+r44	3_Brussel sprouts	1_Green	1
+r45	3_Brussel sprouts	1_Green	2
+r46	3_Brussel sprouts	1_Green	2
+r47	3_Brussel sprouts	1_Green	2
+r48	3_Brussel sprouts	1_Green	1
+r49	3_Brussel sprouts	1_Green	2
+r0	3_Brussel sprouts	2_Yellow	5
+r1	3_Brussel sprouts	2_Yellow	5
+r2	3_Brussel sprouts	2_Yellow	1
+r3	3_Brussel sprouts	2_Yellow	5
+r4	3_Brussel sprouts	2_Yellow	3
+r5	3_Brussel sprouts	2_Yellow	1
+r6	3_Brussel sprouts	2_Yellow	4
+r7	3_Brussel sprouts	2_Yellow	1
+r8	3_Brussel sprouts	2_Yellow	5
+r9	3_Brussel sprouts	2_Yellow	5
+r10	3_Brussel sprouts	2_Yellow	4
+r11	3_Brussel sprouts	2_Yellow	1
+r12	3_Brussel sprouts	2_Yellow	4
+r13	3_Brussel sprouts	2_Yellow	5
+r14	3_Brussel sprouts	2_Yellow	4
+r15	3_Brussel sprouts	2_Yellow	1
+r16	3_Brussel sprouts	2_Yellow	1
+r17	3_Brussel sprouts	2_Yellow	5
+r18	3_Brussel sprouts	2_Yellow	3
+r19	3_Brussel sprouts	2_Yellow	4
+r20	3_Brussel sprouts	2_Yellow	5
+r21	3_Brussel sprouts	2_Yellow	4
+r22	3_Brussel sprouts	2_Yellow	3
+r23	3_Brussel sprouts	2_Yellow	5
+r24	3_Brussel sprouts	2_Yellow	3
+r25	3_Brussel sprouts	2_Yellow	3
+r26	3_Brussel sprouts	2_Yellow	2
+r27	3_Brussel sprouts	2_Yellow	5
+r28	3_Brussel sprouts	2_Yellow	5
+r29	3_Brussel sprouts	2_Yellow	5
+r30	3_Brussel sprouts	2_Yellow	4
+r31	3_Brussel sprouts	2_Yellow	5
+r32	3_Brussel sprouts	2_Yellow	4
+r33	3_Brussel sprouts	2_Yellow	3
+r34	3_Brussel sprouts	2_Yellow	4
+r35	3_Brussel sprouts	2_Yellow	4
+r36	3_Brussel sprouts	2_Yellow	4
+r37	3_Brussel sprouts	2_Yellow	5
+r38	3_Brussel sprouts	2_Yellow	5
+r39	3_Brussel sprouts	2_Yellow	5
+r40	3_Brussel sprouts	2_Yellow	2
+r41	3_Brussel sprouts	2_Yellow	4
+r42	3_Brussel sprouts	2_Yellow	5
+r43	3_Brussel sprouts	2_Yellow	4
+r44	3_Brussel sprouts	2_Yellow	5
+r45	3_Brussel sprouts	2_Yellow	2
+r46	3_Brussel sprouts	2_Yellow	5
+r47	3_Brussel sprouts	2_Yellow	3
+r48	3_Brussel sprouts	2_Yellow	1
+r49	3_Brussel sprouts	2_Yellow	5
+r0	3_Brussel sprouts	3_Cheap	1
+r1	3_Brussel sprouts	3_Cheap	2
+r2	3_Brussel sprouts	3_Cheap	3
+r3	3_Brussel sprouts	3_Cheap	3
+r4	3_Brussel sprouts	3_Cheap	5
+r5	3_Brussel sprouts	3_Cheap	1
+r6	3_Brussel sprouts	3_Cheap	2
+r7	3_Brussel sprouts	3_Cheap	3
+r8	3_Brussel sprouts	3_Cheap	2
+r9	3_Brussel sprouts	3_Cheap	4
+r10	3_Brussel sprouts	3_Cheap	3
+r11	3_Brussel sprouts	3_Cheap	3
+r12	3_Brussel sprouts	3_Cheap	4
+r13	3_Brussel sprouts	3_Cheap	3
+r14	3_Brussel sprouts	3_Cheap	3
+r15	3_Brussel sprouts	3_Cheap	3
+r16	3_Brussel sprouts	3_Cheap	4
+r17	3_Brussel sprouts	3_Cheap	5
+r18	3_Brussel sprouts	3_Cheap	3
+r19	3_Brussel sprouts	3_Cheap	2
+r20	3_Brussel sprouts	3_Cheap	2
+r21	3_Brussel sprouts	3_Cheap	2
+r22	3_Brussel sprouts	3_Cheap	4
+r23	3_Brussel sprouts	3_Cheap	5
+r24	3_Brussel sprouts	3_Cheap	2
+r25	3_Brussel sprouts	3_Cheap	5
+r26	3_Brussel sprouts	3_Cheap	4
+r27	3_Brussel sprouts	3_Cheap	5
+r28	3_Brussel sprouts	3_Cheap	3
+r29	3_Brussel sprouts	3_Cheap	3
+r30	3_Brussel sprouts	3_Cheap	4
+r31	3_Brussel sprouts	3_Cheap	4
+r32	3_Brussel sprouts	3_Cheap	5
+r33	3_Brussel sprouts	3_Cheap	3
+r34	3_Brussel sprouts	3_Cheap	2
+r35	3_Brussel sprouts	3_Cheap	5
+r36	3_Brussel sprouts	3_Cheap	5
+r37	3_Brussel sprouts	3_Cheap	4
+r38	3_Brussel sprouts	3_Cheap	2
+r39	3_Brussel sprouts	3_Cheap	1
+r40	3_Brussel sprouts	3_Cheap	4
+r41	3_Brussel sprouts	3_Cheap	2
+r42	3_Brussel sprouts	3_Cheap	1
+r43	3_Brussel sprouts	3_Cheap	3
+r44	3_Brussel sprouts	3_Cheap	2
+r45	3_Brussel sprouts	3_Cheap	4
+r46	3_Brussel sprouts	3_Cheap	2
+r47	3_Brussel sprouts	3_Cheap	3
+r48	3_Brussel sprouts	3_Cheap	1
+r49	3_Brussel sprouts	3_Cheap	3
+r0	3_Brussel sprouts	4_Tasty	1
+r1	3_Brussel sprouts	4_Tasty	1
+r2	3_Brussel sprouts	4_Tasty	1
+r3	3_Brussel sprouts	4_Tasty	1
+r4	3_Brussel sprouts	4_Tasty	2
+r5	3_Brussel sprouts	4_Tasty	3
+r6	3_Brussel sprouts	4_Tasty	3
+r7	3_Brussel sprouts	4_Tasty	3
+r8	3_Brussel sprouts	4_Tasty	1
+r9	3_Brussel sprouts	4_Tasty	1
+r10	3_Brussel sprouts	4_Tasty	1
+r11	3_Brussel sprouts	4_Tasty	1
+r12	3_Brussel sprouts	4_Tasty	1
+r13	3_Brussel sprouts	4_Tasty	3
+r14	3_Brussel sprouts	4_Tasty	1
+r15	3_Brussel sprouts	4_Tasty	3
+r16	3_Brussel sprouts	4_Tasty	3
+r17	3_Brussel sprouts	4_Tasty	3
+r18	3_Brussel sprouts	4_Tasty	1
+r19	3_Brussel sprouts	4_Tasty	3
+r20	3_Brussel sprouts	4_Tasty	1
+r21	3_Brussel sprouts	4_Tasty	1
+r22	3_Brussel sprouts	4_Tasty	2
+r23	3_Brussel sprouts	4_Tasty	3
+r24	3_Brussel sprouts	4_Tasty	1
+r25	3_Brussel sprouts	4_Tasty	1
+r26	3_Brussel sprouts	4_Tasty	3
+r27	3_Brussel sprouts	4_Tasty	2
+r28	3_Brussel sprouts	4_Tasty	1
+r29	3_Brussel sprouts	4_Tasty	1
+r30	3_Brussel sprouts	4_Tasty	1
+r31	3_Brussel sprouts	4_Tasty	1
+r32	3_Brussel sprouts	4_Tasty	1
+r33	3_Brussel sprouts	4_Tasty	1
+r34	3_Brussel sprouts	4_Tasty	2
+r35	3_Brussel sprouts	4_Tasty	1
+r36	3_Brussel sprouts	4_Tasty	1
+r37	3_Brussel sprouts	4_Tasty	1
+r38	3_Brussel sprouts	4_Tasty	1
+r39	3_Brussel sprouts	4_Tasty	1
+r40	3_Brussel sprouts	4_Tasty	1
+r41	3_Brussel sprouts	4_Tasty	1
+r42	3_Brussel sprouts	4_Tasty	1
+r43	3_Brussel sprouts	4_Tasty	1
+r44	3_Brussel sprouts	4_Tasty	2
+r45	3_Brussel sprouts	4_Tasty	1
+r46	3_Brussel sprouts	4_Tasty	2
+r47	3_Brussel sprouts	4_Tasty	1
+r48	3_Brussel sprouts	4_Tasty	1
+r49	3_Brussel sprouts	4_Tasty	1
+r0	3_Brussel sprouts	5_Gross	3
+r1	3_Brussel sprouts	5_Gross	5
+r2	3_Brussel sprouts	5_Gross	5
+r3	3_Brussel sprouts	5_Gross	4
+r4	3_Brussel sprouts	5_Gross	5
+r5	3_Brussel sprouts	5_Gross	2
+r6	3_Brussel sprouts	5_Gross	1
+r7	3_Brussel sprouts	5_Gross	1
+r8	3_Brussel sprouts	5_Gross	5
+r9	3_Brussel sprouts	5_Gross	2
+r10	3_Brussel sprouts	5_Gross	4
+r11	3_Brussel sprouts	5_Gross	4
+r12	3_Brussel sprouts	5_Gross	4
+r13	3_Brussel sprouts	5_Gross	4
+r14	3_Brussel sprouts	5_Gross	4
+r15	3_Brussel sprouts	5_Gross	5
+r16	3_Brussel sprouts	5_Gross	4
+r17	3_Brussel sprouts	5_Gross	3
+r18	3_Brussel sprouts	5_Gross	3
+r19	3_Brussel sprouts	5_Gross	5
+r20	3_Brussel sprouts	5_Gross	1
+r21	3_Brussel sprouts	5_Gross	2
+r22	3_Brussel sprouts	5_Gross	5
+r23	3_Brussel sprouts	5_Gross	4
+r24	3_Brussel sprouts	5_Gross	5
+r25	3_Brussel sprouts	5_Gross	3
+r26	3_Brussel sprouts	5_Gross	3
+r27	3_Brussel sprouts	5_Gross	5
+r28	3_Brussel sprouts	5_Gross	2
+r29	3_Brussel sprouts	5_Gross	4
+r30	3_Brussel sprouts	5_Gross	5
+r31	3_Brussel sprouts	5_Gross	4
+r32	3_Brussel sprouts	5_Gross	4
+r33	3_Brussel sprouts	5_Gross	1
+r34	3_Brussel sprouts	5_Gross	3
+r35	3_Brussel sprouts	5_Gross	3
+r36	3_Brussel sprouts	5_Gross	5
+r37	3_Brussel sprouts	5_Gross	1
+r38	3_Brussel sprouts	5_Gross	3
+r39	3_Brussel sprouts	5_Gross	5
+r40	3_Brussel sprouts	5_Gross	2
+r41	3_Brussel sprouts	5_Gross	5
+r42	3_Brussel sprouts	5_Gross	3
+r43	3_Brussel sprouts	5_Gross	3
+r44	3_Brussel sprouts	5_Gross	3
+r45	3_Brussel sprouts	5_Gross	4
+r46	3_Brussel sprouts	5_Gross	1
+r47	3_Brussel sprouts	5_Gross	4
+r48	3_Brussel sprouts	5_Gross	5
+r49	3_Brussel sprouts	5_Gross	2
+r0	4_Green beans	1_Green	4
+r1	4_Green beans	1_Green	3
+r2	4_Green beans	1_Green	3
+r3	4_Green beans	1_Green	3
+r4	4_Green beans	1_Green	3
+r5	4_Green beans	1_Green	3
+r6	4_Green beans	1_Green	3
+r7	4_Green beans	1_Green	4
+r8	4_Green beans	1_Green	3
+r9	4_Green beans	1_Green	3
+r10	4_Green beans	1_Green	3
+r11	4_Green beans	1_Green	4
+r12	4_Green beans	1_Green	3
+r13	4_Green beans	1_Green	4
+r14	4_Green beans	1_Green	4
+r15	4_Green beans	1_Green	4
+r16	4_Green beans	1_Green	5
+r17	4_Green beans	1_Green	4
+r18	4_Green beans	1_Green	5
+r19	4_Green beans	1_Green	5
+r20	4_Green beans	1_Green	3
+r21	4_Green beans	1_Green	3
+r22	4_Green beans	1_Green	3
+r23	4_Green beans	1_Green	4
+r24	4_Green beans	1_Green	3
+r25	4_Green beans	1_Green	4
+r26	4_Green beans	1_Green	3
+r27	4_Green beans	1_Green	3
+r28	4_Green beans	1_Green	4
+r29	4_Green beans	1_Green	5
+r30	4_Green beans	1_Green	3
+r31	4_Green beans	1_Green	2
+r32	4_Green beans	1_Green	4
+r33	4_Green beans	1_Green	3
+r34	4_Green beans	1_Green	3
+r35	4_Green beans	1_Green	4
+r36	4_Green beans	1_Green	5
+r37	4_Green beans	1_Green	3
+r38	4_Green beans	1_Green	4
+r39	4_Green beans	1_Green	3
+r40	4_Green beans	1_Green	5
+r41	4_Green beans	1_Green	3
+r42	4_Green beans	1_Green	3
+r43	4_Green beans	1_Green	5
+r44	4_Green beans	1_Green	2
+r45	4_Green beans	1_Green	4
+r46	4_Green beans	1_Green	4
+r47	4_Green beans	1_Green	3
+r48	4_Green beans	1_Green	5
+r49	4_Green beans	1_Green	3
+r0	4_Green beans	2_Yellow	5
+r1	4_Green beans	2_Yellow	2
+r2	4_Green beans	2_Yellow	2
+r3	4_Green beans	2_Yellow	2
+r4	4_Green beans	2_Yellow	2
+r5	4_Green beans	2_Yellow	3
+r6	4_Green beans	2_Yellow	4
+r7	4_Green beans	2_Yellow	5
+r8	4_Green beans	2_Yellow	4
+r9	4_Green beans	2_Yellow	3
+r10	4_Green beans	2_Yellow	3
+r11	4_Green beans	2_Yellow	4
+r12	4_Green beans	2_Yellow	2
+r13	4_Green beans	2_Yellow	3
+r14	4_Green beans	2_Yellow	4
+r15	4_Green beans	2_Yellow	2
+r16	4_Green beans	2_Yellow	5
+r17	4_Green beans	2_Yellow	5
+r18	4_Green beans	2_Yellow	4
+r19	4_Green beans	2_Yellow	3
+r20	4_Green beans	2_Yellow	4
+r21	4_Green beans	2_Yellow	1
+r22	4_Green beans	2_Yellow	1
+r23	4_Green beans	2_Yellow	5
+r24	4_Green beans	2_Yellow	4
+r25	4_Green beans	2_Yellow	1
+r26	4_Green beans	2_Yellow	4
+r27	4_Green beans	2_Yellow	5
+r28	4_Green beans	2_Yellow	2
+r29	4_Green beans	2_Yellow	3
+r30	4_Green beans	2_Yellow	3
+r31	4_Green beans	2_Yellow	4
+r32	4_Green beans	2_Yellow	3
+r33	4_Green beans	2_Yellow	4
+r34	4_Green beans	2_Yellow	5
+r35	4_Green beans	2_Yellow	4
+r36	4_Green beans	2_Yellow	1
+r37	4_Green beans	2_Yellow	4
+r38	4_Green beans	2_Yellow	2
+r39	4_Green beans	2_Yellow	3
+r40	4_Green beans	2_Yellow	5
+r41	4_Green beans	2_Yellow	2
+r42	4_Green beans	2_Yellow	3
+r43	4_Green beans	2_Yellow	3
+r44	4_Green beans	2_Yellow	3
+r45	4_Green beans	2_Yellow	3
+r46	4_Green beans	2_Yellow	4
+r47	4_Green beans	2_Yellow	3
+r48	4_Green beans	2_Yellow	1
+r49	4_Green beans	2_Yellow	3
+r0	4_Green beans	3_Cheap	3
+r1	4_Green beans	3_Cheap	2
+r2	4_Green beans	3_Cheap	4
+r3	4_Green beans	3_Cheap	5
+r4	4_Green beans	3_Cheap	3
+r5	4_Green beans	3_Cheap	4
+r6	4_Green beans	3_Cheap	2
+r7	4_Green beans	3_Cheap	1
+r8	4_Green beans	3_Cheap	5
+r9	4_Green beans	3_Cheap	3
+r10	4_Green beans	3_Cheap	3
+r11	4_Green beans	3_Cheap	4
+r12	4_Green beans	3_Cheap	5
+r13	4_Green beans	3_Cheap	2
+r14	4_Green beans	3_Cheap	2
+r15	4_Green beans	3_Cheap	5
+r16	4_Green beans	3_Cheap	3
+r17	4_Green beans	3_Cheap	2
+r18	4_Green beans	3_Cheap	3
+r19	4_Green beans	3_Cheap	5
+r20	4_Green beans	3_Cheap	2
+r21	4_Green beans	3_Cheap	2
+r22	4_Green beans	3_Cheap	2
+r23	4_Green beans	3_Cheap	3
+r24	4_Green beans	3_Cheap	3
+r25	4_Green beans	3_Cheap	3
+r26	4_Green beans	3_Cheap	4
+r27	4_Green beans	3_Cheap	1
+r28	4_Green beans	3_Cheap	5
+r29	4_Green beans	3_Cheap	1
+r30	4_Green beans	3_Cheap	4
+r31	4_Green beans	3_Cheap	3
+r32	4_Green beans	3_Cheap	3
+r33	4_Green beans	3_Cheap	2
+r34	4_Green beans	3_Cheap	3
+r35	4_Green beans	3_Cheap	4
+r36	4_Green beans	3_Cheap	1
+r37	4_Green beans	3_Cheap	4
+r38	4_Green beans	3_Cheap	4
+r39	4_Green beans	3_Cheap	3
+r40	4_Green beans	3_Cheap	4
+r41	4_Green beans	3_Cheap	2
+r42	4_Green beans	3_Cheap	2
+r43	4_Green beans	3_Cheap	5
+r44	4_Green beans	3_Cheap	1
+r45	4_Green beans	3_Cheap	3
+r46	4_Green beans	3_Cheap	3
+r47	4_Green beans	3_Cheap	2
+r48	4_Green beans	3_Cheap	4
+r49	4_Green beans	3_Cheap	2
+r0	4_Green beans	4_Tasty	1
+r1	4_Green beans	4_Tasty	4
+r2	4_Green beans	4_Tasty	3
+r3	4_Green beans	4_Tasty	3
+r4	4_Green beans	4_Tasty	4
+r5	4_Green beans	4_Tasty	4
+r6	4_Green beans	4_Tasty	1
+r7	4_Green beans	4_Tasty	1
+r8	4_Green beans	4_Tasty	1
+r9	4_Green beans	4_Tasty	1
+r10	4_Green beans	4_Tasty	1
+r11	4_Green beans	4_Tasty	4
+r12	4_Green beans	4_Tasty	2
+r13	4_Green beans	4_Tasty	4
+r14	4_Green beans	4_Tasty	1
+r15	4_Green beans	4_Tasty	2
+r16	4_Green beans	4_Tasty	1
+r17	4_Green beans	4_Tasty	2
+r18	4_Green beans	4_Tasty	1
+r19	4_Green beans	4_Tasty	5
+r20	4_Green beans	4_Tasty	4
+r21	4_Green beans	4_Tasty	1
+r22	4_Green beans	4_Tasty	1
+r23	4_Green beans	4_Tasty	3
+r24	4_Green beans	4_Tasty	4
+r25	4_Green beans	4_Tasty	3
+r26	4_Green beans	4_Tasty	2
+r27	4_Green beans	4_Tasty	2
+r28	4_Green beans	4_Tasty	5
+r29	4_Green beans	4_Tasty	1
+r30	4_Green beans	4_Tasty	2
+r31	4_Green beans	4_Tasty	1
+r32	4_Green beans	4_Tasty	3
+r33	4_Green beans	4_Tasty	1
+r34	4_Green beans	4_Tasty	1
+r35	4_Green beans	4_Tasty	1
+r36	4_Green beans	4_Tasty	1
+r37	4_Green beans	4_Tasty	1
+r38	4_Green beans	4_Tasty	1
+r39	4_Green beans	4_Tasty	3
+r40	4_Green beans	4_Tasty	1
+r41	4_Green beans	4_Tasty	1
+r42	4_Green beans	4_Tasty	1
+r43	4_Green beans	4_Tasty	4
+r44	4_Green beans	4_Tasty	1
+r45	4_Green beans	4_Tasty	1
+r46	4_Green beans	4_Tasty	4
+r47	4_Green beans	4_Tasty	1
+r48	4_Green beans	4_Tasty	5
+r49	4_Green beans	4_Tasty	1
+r0	4_Green beans	5_Gross	1
+r1	4_Green beans	5_Gross	1
+r2	4_Green beans	5_Gross	3
+r3	4_Green beans	5_Gross	1
+r4	4_Green beans	5_Gross	4
+r5	4_Green beans	5_Gross	2
+r6	4_Green beans	5_Gross	2
+r7	4_Green beans	5_Gross	1
+r8	4_Green beans	5_Gross	3
+r9	4_Green beans	5_Gross	1
+r10	4_Green beans	5_Gross	1
+r11	4_Green beans	5_Gross	1
+r12	4_Green beans	5_Gross	1
+r13	4_Green beans	5_Gross	2
+r14	4_Green beans	5_Gross	2
+r15	4_Green beans	5_Gross	4
+r16	4_Green beans	5_Gross	2
+r17	4_Green beans	5_Gross	1
+r18	4_Green beans	5_Gross	3
+r19	4_Green beans	5_Gross	3
+r20	4_Green beans	5_Gross	1
+r21	4_Green beans	5_Gross	1
+r22	4_Green beans	5_Gross	2
+r23	4_Green beans	5_Gross	1
+r24	4_Green beans	5_Gross	1
+r25	4_Green beans	5_Gross	1
+r26	4_Green beans	5_Gross	1
+r27	4_Green beans	5_Gross	2
+r28	4_Green beans	5_Gross	1
+r29	4_Green beans	5_Gross	2
+r30	4_Green beans	5_Gross	4
+r31	4_Green beans	5_Gross	1
+r32	4_Green beans	5_Gross	2
+r33	4_Green beans	5_Gross	3
+r34	4_Green beans	5_Gross	1
+r35	4_Green beans	5_Gross	1
+r36	4_Green beans	5_Gross	1
+r37	4_Green beans	5_Gross	1
+r38	4_Green beans	5_Gross	3
+r39	4_Green beans	5_Gross	1
+r40	4_Green beans	5_Gross	4
+r41	4_Green beans	5_Gross	3
+r42	4_Green beans	5_Gross	3
+r43	4_Green beans	5_Gross	1
+r44	4_Green beans	5_Gross	1
+r45	4_Green beans	5_Gross	5
+r46	4_Green beans	5_Gross	3
+r47	4_Green beans	5_Gross	2
+r48	4_Green beans	5_Gross	3
+r49	4_Green beans	5_Gross	1
+r0	5_Peas	1_Green	2
+r1	5_Peas	1_Green	5
+r2	5_Peas	1_Green	1
+r3	5_Peas	1_Green	5
+r4	5_Peas	1_Green	3
+r5	5_Peas	1_Green	5
+r6	5_Peas	1_Green	5
+r7	5_Peas	1_Green	5
+r8	5_Peas	1_Green	4
+r9	5_Peas	1_Green	5
+r10	5_Peas	1_Green	3
+r11	5_Peas	1_Green	1
+r12	5_Peas	1_Green	2
+r13	5_Peas	1_Green	5
+r14	5_Peas	1_Green	3
+r15	5_Peas	1_Green	4
+r16	5_Peas	1_Green	5
+r17	5_Peas	1_Green	5
+r18	5_Peas	1_Green	5
+r19	5_Peas	1_Green	4
+r20	5_Peas	1_Green	5
+r21	5_Peas	1_Green	5
+r22	5_Peas	1_Green	5
+r23	5_Peas	1_Green	5
+r24	5_Peas	1_Green	3
+r25	5_Peas	1_Green	5
+r26	5_Peas	1_Green	4
+r27	5_Peas	1_Green	3
+r28	5_Peas	1_Green	3
+r29	5_Peas	1_Green	2
+r30	5_Peas	1_Green	5
+r31	5_Peas	1_Green	4
+r32	5_Peas	1_Green	5
+r33	5_Peas	1_Green	3
+r34	5_Peas	1_Green	5
+r35	5_Peas	1_Green	5
+r36	5_Peas	1_Green	3
+r37	5_Peas	1_Green	5
+r38	5_Peas	1_Green	2
+r39	5_Peas	1_Green	5
+r40	5_Peas	1_Green	5
+r41	5_Peas	1_Green	4
+r42	5_Peas	1_Green	5
+r43	5_Peas	1_Green	5
+r44	5_Peas	1_Green	4
+r45	5_Peas	1_Green	2
+r46	5_Peas	1_Green	3
+r47	5_Peas	1_Green	3
+r48	5_Peas	1_Green	4
+r49	5_Peas	1_Green	5
+r0	5_Peas	2_Yellow	2
+r1	5_Peas	2_Yellow	1
+r2	5_Peas	2_Yellow	1
+r3	5_Peas	2_Yellow	2
+r4	5_Peas	2_Yellow	2
+r5	5_Peas	2_Yellow	1
+r6	5_Peas	2_Yellow	1
+r7	5_Peas	2_Yellow	1
+r8	5_Peas	2_Yellow	1
+r9	5_Peas	2_Yellow	1
+r10	5_Peas	2_Yellow	3
+r11	5_Peas	2_Yellow	3
+r12	5_Peas	2_Yellow	1
+r13	5_Peas	2_Yellow	1
+r14	5_Peas	2_Yellow	3
+r15	5_Peas	2_Yellow	5
+r16	5_Peas	2_Yellow	3
+r17	5_Peas	2_Yellow	3
+r18	5_Peas	2_Yellow	1
+r19	5_Peas	2_Yellow	2
+r20	5_Peas	2_Yellow	1
+r21	5_Peas	2_Yellow	1
+r22	5_Peas	2_Yellow	1
+r23	5_Peas	2_Yellow	1
+r24	5_Peas	2_Yellow	1
+r25	5_Peas	2_Yellow	4
+r26	5_Peas	2_Yellow	1
+r27	5_Peas	2_Yellow	1
+r28	5_Peas	2_Yellow	2
+r29	5_Peas	2_Yellow	1
+r30	5_Peas	2_Yellow	1
+r31	5_Peas	2_Yellow	1
+r32	5_Peas	2_Yellow	1
+r33	5_Peas	2_Yellow	2
+r34	5_Peas	2_Yellow	3
+r35	5_Peas	2_Yellow	1
+r36	5_Peas	2_Yellow	1
+r37	5_Peas	2_Yellow	3
+r38	5_Peas	2_Yellow	1
+r39	5_Peas	2_Yellow	1
+r40	5_Peas	2_Yellow	1
+r41	5_Peas	2_Yellow	2
+r42	5_Peas	2_Yellow	1
+r43	5_Peas	2_Yellow	1
+r44	5_Peas	2_Yellow	2
+r45	5_Peas	2_Yellow	2
+r46	5_Peas	2_Yellow	2
+r47	5_Peas	2_Yellow	1
+r48	5_Peas	2_Yellow	3
+r49	5_Peas	2_Yellow	1
+r0	5_Peas	3_Cheap	4
+r1	5_Peas	3_Cheap	3
+r2	5_Peas	3_Cheap	5
+r3	5_Peas	3_Cheap	3
+r4	5_Peas	3_Cheap	2
+r5	5_Peas	3_Cheap	3
+r6	5_Peas	3_Cheap	4
+r7	5_Peas	3_Cheap	5
+r8	5_Peas	3_Cheap	1
+r9	5_Peas	3_Cheap	4
+r10	5_Peas	3_Cheap	4
+r11	5_Peas	3_Cheap	3
+r12	5_Peas	3_Cheap	1
+r13	5_Peas	3_Cheap	2
+r14	5_Peas	3_Cheap	2
+r15	5_Peas	3_Cheap	2
+r16	5_Peas	3_Cheap	2
+r17	5_Peas	3_Cheap	5
+r18	5_Peas	3_Cheap	3
+r19	5_Peas	3_Cheap	2
+r20	5_Peas	3_Cheap	5
+r21	5_Peas	3_Cheap	2
+r22	5_Peas	3_Cheap	3
+r23	5_Peas	3_Cheap	3
+r24	5_Peas	3_Cheap	4
+r25	5_Peas	3_Cheap	5
+r26	5_Peas	3_Cheap	4
+r27	5_Peas	3_Cheap	3
+r28	5_Peas	3_Cheap	1
+r29	5_Peas	3_Cheap	1
+r30	5_Peas	3_Cheap	1
+r31	5_Peas	3_Cheap	3
+r32	5_Peas	3_Cheap	5
+r33	5_Peas	3_Cheap	4
+r34	5_Peas	3_Cheap	1
+r35	5_Peas	3_Cheap	3
+r36	5_Peas	3_Cheap	2
+r37	5_Peas	3_Cheap	5
+r38	5_Peas	3_Cheap	4
+r39	5_Peas	3_Cheap	4
+r40	5_Peas	3_Cheap	1
+r41	5_Peas	3_Cheap	1
+r42	5_Peas	3_Cheap	2
+r43	5_Peas	3_Cheap	4
+r44	5_Peas	3_Cheap	2
+r45	5_Peas	3_Cheap	4
+r46	5_Peas	3_Cheap	3
+r47	5_Peas	3_Cheap	2
+r48	5_Peas	3_Cheap	3
+r49	5_Peas	3_Cheap	2
+r0	5_Peas	4_Tasty	2
+r1	5_Peas	4_Tasty	5
+r2	5_Peas	4_Tasty	2
+r3	5_Peas	4_Tasty	5
+r4	5_Peas	4_Tasty	1
+r5	5_Peas	4_Tasty	4
+r6	5_Peas	4_Tasty	5
+r7	5_Peas	4_Tasty	1
+r8	5_Peas	4_Tasty	2
+r9	5_Peas	4_Tasty	4
+r10	5_Peas	4_Tasty	4
+r11	5_Peas	4_Tasty	4
+r12	5_Peas	4_Tasty	1
+r13	5_Peas	4_Tasty	5
+r14	5_Peas	4_Tasty	4
+r15	5_Peas	4_Tasty	3
+r16	5_Peas	4_Tasty	4
+r17	5_Peas	4_Tasty	1
+r18	5_Peas	4_Tasty	2
+r19	5_Peas	4_Tasty	3
+r20	5_Peas	4_Tasty	5
+r21	5_Peas	4_Tasty	4
+r22	5_Peas	4_Tasty	5
+r23	5_Peas	4_Tasty	5
+r24	5_Peas	4_Tasty	2
+r25	5_Peas	4_Tasty	3
+r26	5_Peas	4_Tasty	1
+r27	5_Peas	4_Tasty	5
+r28	5_Peas	4_Tasty	3
+r29	5_Peas	4_Tasty	5
+r30	5_Peas	4_Tasty	3
+r31	5_Peas	4_Tasty	3
+r32	5_Peas	4_Tasty	4
+r33	5_Peas	4_Tasty	4
+r34	5_Peas	4_Tasty	5
+r35	5_Peas	4_Tasty	3
+r36	5_Peas	4_Tasty	4
+r37	5_Peas	4_Tasty	4
+r38	5_Peas	4_Tasty	3
+r39	5_Peas	4_Tasty	5
+r40	5_Peas	4_Tasty	2
+r41	5_Peas	4_Tasty	3
+r42	5_Peas	4_Tasty	2
+r43	5_Peas	4_Tasty	4
+r44	5_Peas	4_Tasty	5
+r45	5_Peas	4_Tasty	4
+r46	5_Peas	4_Tasty	3
+r47	5_Peas	4_Tasty	3
+r48	5_Peas	4_Tasty	5
+r49	5_Peas	4_Tasty	4
+r0	5_Peas	5_Gross	1
+r1	5_Peas	5_Gross	1
+r2	5_Peas	5_Gross	1
+r3	5_Peas	5_Gross	2
+r4	5_Peas	5_Gross	1
+r5	5_Peas	5_Gross	1
+r6	5_Peas	5_Gross	1
+r7	5_Peas	5_Gross	1
+r8	5_Peas	5_Gross	1
+r9	5_Peas	5_Gross	1
+r10	5_Peas	5_Gross	1
+r11	5_Peas	5_Gross	1
+r12	5_Peas	5_Gross	2
+r13	5_Peas	5_Gross	1
+r14	5_Peas	5_Gross	1
+r15	5_Peas	5_Gross	1
+r16	5_Peas	5_Gross	1
+r17	5_Peas	5_Gross	1
+r18	5_Peas	5_Gross	1
+r19	5_Peas	5_Gross	1
+r20	5_Peas	5_Gross	1
+r21	5_Peas	5_Gross	1
+r22	5_Peas	5_Gross	1
+r23	5_Peas	5_Gross	1
+r24	5_Peas	5_Gross	2
+r25	5_Peas	5_Gross	1
+r26	5_Peas	5_Gross	1
+r27	5_Peas	5_Gross	1
+r28	5_Peas	5_Gross	1
+r29	5_Peas	5_Gross	1
+r30	5_Peas	5_Gross	3
+r31	5_Peas	5_Gross	1
+r32	5_Peas	5_Gross	3
+r33	5_Peas	5_Gross	1
+r34	5_Peas	5_Gross	1
+r35	5_Peas	5_Gross	1
+r36	5_Peas	5_Gross	1
+r37	5_Peas	5_Gross	1
+r38	5_Peas	5_Gross	2
+r39	5_Peas	5_Gross	4
+r40	5_Peas	5_Gross	1
+r41	5_Peas	5_Gross	1
+r42	5_Peas	5_Gross	2
+r43	5_Peas	5_Gross	1
+r44	5_Peas	5_Gross	2
+r45	5_Peas	5_Gross	1
+r46	5_Peas	5_Gross	1
+r47	5_Peas	5_Gross	1
+r48	5_Peas	5_Gross	1
+r49	5_Peas	5_Gross	1
