@@ -26,6 +26,13 @@ pip install "vegafusion[embed]"
 pip install "vegafusion-jupyter[embed]"
 ```
 
+You might also want to install [vl-convert](https://github.com/vega/vl-convert) for saving plots to SVG or PNG
+right from your code (rather than clicking buttons).
+
+```
+pip install vl-convert-python
+```
+
 ### Workshop videos
 
 There is a [recording of a workshop from Fall 2021](https://warpwire.duke.edu/w/-doGAA/),
