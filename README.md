@@ -8,9 +8,21 @@ This is a introductory-level workshop given through Duke University's
 ### Installs
 
 **I recommend using the [Anaconda Python distribution](https://www.anaconda.com/distribution/) 
-as an easy way to get Python, JupyterLab, and Altair.**
+as an easy way to get Python, JupyterLab, and Altair.** Anaconda comes with Altair installed, but
+if you're not using the Anaconda distribution you should follow the 
+[Altair installation guide](https://altair-viz.github.io/getting_started/installation.html).
 
-The numbered lessons have been updated to use Altair 5, which has some 
+```
+pip install altair vega_datasets
+```
+
+*or*
+
+```
+conda install -c conda-forge altair vega_datasets
+```
+
+The numbered lessons above have been updated to use Altair 5, which has some 
 [new features and syntax](https://altair-viz.github.io/releases/changes.html) 
 not present in the workshop videos below. 
 
